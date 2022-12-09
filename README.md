@@ -2,7 +2,7 @@
 
 Submitted by: Myles Bostic
 
-# iWordle is a wordle game  [Wordle](https://www.nytimes.com/games/wordle/index.html). 
+# iWordle is a wordle game of [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
 Time spent: **4** hours spent in total
 
