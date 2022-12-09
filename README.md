@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/and102/E4zqlpvW.gif" title='GIF' >
+<img src='https://submissions.us-east-1.linodeobjects.com/and102/E4zqlpvW.gif' title='GIF' width='' alt='GIF' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created  with Kap  
